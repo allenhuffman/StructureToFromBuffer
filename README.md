@@ -1,6 +1,6 @@
 # StructureToFromBuffer
 C routines to convert structure elements to/from a buffer.
-
+## How it works.
 All you have to do is have a C structure that represents the elements in the packed data bytes:
 
 ```
